@@ -1,0 +1,18 @@
+{
+  "project": "Concerto AutoAgent",
+  "description": "A semantic-aware, context-managed personal automation assistant powered by modular agents.",
+  "developer": {
+    "name": "!<? Studio",
+    "role": "Core architect and visual identity designer",
+    "email": "kyle@example.com",
+    "copyright": "© 2025 !<? Studio"
+  },
+  "maintainer": {
+    "name": "OKmotivation.co",
+    "role": "System integrator and deployment operator",
+    "email": "info@okmotivation.co",
+    "copyright": "© 2025 OKmotivation.co"
+  },
+  "license": "Custom license - see LICENSE.txt",
+  "note": "This module is not affiliated with OpenAI, LINE, or Notion."
+}
