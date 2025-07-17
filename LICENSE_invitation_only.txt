@@ -5,7 +5,7 @@
 
 如對本專案有合作、研究或內部導入之需求，歡迎與創作者洽談授權：
 
-📧 授權洽談信箱：info@okmotivation.co
+📧 授權洽談信箱：info@okmotivation.com
 
 本專案所涵蓋之視覺標章、模組結構、腳本邏輯與語境系統均屬原創內容。  
 本模組與 OpenAI、LINE、Notion 無直接關聯。
