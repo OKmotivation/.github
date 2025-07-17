@@ -26,4 +26,4 @@
 ## 四、聯絡資訊
 
 如有合作、建議或權益疑慮，歡迎來信：
-📧 info@okmotivation.co
+📧 info@okmotivation.com
